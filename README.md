@@ -1,2 +1,1 @@
-# gpc-devops-project
-gcp-devops-project
+# This is our new GCP Devops project
